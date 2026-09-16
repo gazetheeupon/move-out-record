@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gazetheeupon.github.io/move-out-record/sitemap.xml
