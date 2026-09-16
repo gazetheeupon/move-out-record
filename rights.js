@@ -57,6 +57,367 @@ window.RENTER_RIGHTS = {
       { label: "MA AG — Security Deposits and Last Month's Rent", url: "https://www.mass.gov/info-details/security-deposits-and-last-months-rent" }
     ]
   },
+  AL: {
+    name: "Alabama",
+    deadline: "Commonly cited deadline: 60 days after move-out. This tool has not independently verified this figure against the state's statute text.",
+    caution: "This state's entry is sourced from a secondary legal-info aggregator, not verified line-by-line against the statute by this tool. Confirm with your state's official tenant-rights resources or a local tenant organization before relying on it. This tool does not provide legal advice.",
+    sources: [
+      { label: "ipropertymanagement.com \u2014 Security Deposit Return Laws (50-state summary)", url: "https://ipropertymanagement.com/laws/security-deposit-return" },
+    ]
+  },
+  AK: {
+    name: "Alaska",
+    deadline: "Commonly cited deadline: 14 days if no deductions, up to 30 days if there are deductions. This tool has not independently verified this figure against the state's statute text.",
+    caution: "This state's entry is sourced from a secondary legal-info aggregator, not verified line-by-line against the statute by this tool. Confirm with your state's official tenant-rights resources or a local tenant organization before relying on it. This tool does not provide legal advice.",
+    sources: [
+      { label: "ipropertymanagement.com \u2014 Security Deposit Return Laws (50-state summary)", url: "https://ipropertymanagement.com/laws/security-deposit-return" },
+    ]
+  },
+  AZ: {
+    name: "Arizona",
+    deadline: "Commonly cited deadline: 14 business days after move-out. This tool has not independently verified this figure against the state's statute text.",
+    caution: "This state's entry is sourced from a secondary legal-info aggregator, not verified line-by-line against the statute by this tool. Confirm with your state's official tenant-rights resources or a local tenant organization before relying on it. This tool does not provide legal advice.",
+    sources: [
+      { label: "ipropertymanagement.com \u2014 Security Deposit Return Laws (50-state summary)", url: "https://ipropertymanagement.com/laws/security-deposit-return" },
+    ]
+  },
+  AR: {
+    name: "Arkansas",
+    deadline: "Commonly cited deadline: 60 days after move-out. This tool has not independently verified this figure against the state's statute text.",
+    caution: "This state's entry is sourced from a secondary legal-info aggregator, not verified line-by-line against the statute by this tool. Confirm with your state's official tenant-rights resources or a local tenant organization before relying on it. This tool does not provide legal advice.",
+    sources: [
+      { label: "ipropertymanagement.com \u2014 Security Deposit Return Laws (50-state summary)", url: "https://ipropertymanagement.com/laws/security-deposit-return" },
+    ]
+  },
+  CO: {
+    name: "Colorado",
+    deadline: "Commonly cited deadline: 1 month after move-out, up to 60 days if the lease sets a longer period. This tool has not independently verified this figure against the state's statute text.",
+    caution: "This state's entry is sourced from a secondary legal-info aggregator, not verified line-by-line against the statute by this tool. Confirm with your state's official tenant-rights resources or a local tenant organization before relying on it. This tool does not provide legal advice.",
+    sources: [
+      { label: "ipropertymanagement.com \u2014 Security Deposit Return Laws (50-state summary)", url: "https://ipropertymanagement.com/laws/security-deposit-return" },
+    ]
+  },
+  CT: {
+    name: "Connecticut",
+    deadline: "Commonly cited deadline: 30 days after move-out, or 15 days after you provide a forwarding address, whichever is later. This tool has not independently verified this figure against the state's statute text.",
+    caution: "This state's entry is sourced from a secondary legal-info aggregator, not verified line-by-line against the statute by this tool. Confirm with your state's official tenant-rights resources or a local tenant organization before relying on it. This tool does not provide legal advice.",
+    sources: [
+      { label: "ipropertymanagement.com \u2014 Security Deposit Return Laws (50-state summary)", url: "https://ipropertymanagement.com/laws/security-deposit-return" },
+    ]
+  },
+  DE: {
+    name: "Delaware",
+    deadline: "Commonly cited deadline: 20 days after move-out. This tool has not independently verified this figure against the state's statute text.",
+    caution: "This state's entry is sourced from a secondary legal-info aggregator, not verified line-by-line against the statute by this tool. Confirm with your state's official tenant-rights resources or a local tenant organization before relying on it. This tool does not provide legal advice.",
+    sources: [
+      { label: "ipropertymanagement.com \u2014 Security Deposit Return Laws (50-state summary)", url: "https://ipropertymanagement.com/laws/security-deposit-return" },
+    ]
+  },
+  DC: {
+    name: "District of Columbia",
+    deadline: "Commonly cited deadline: 45 days after move-out. This tool has not independently verified this figure against the state's statute text.",
+    caution: "This state's entry is sourced from a secondary legal-info aggregator, not verified line-by-line against the statute by this tool. Confirm with your state's official tenant-rights resources or a local tenant organization before relying on it. This tool does not provide legal advice.",
+    sources: [
+      { label: "ipropertymanagement.com \u2014 Security Deposit Return Laws (50-state summary)", url: "https://ipropertymanagement.com/laws/security-deposit-return" },
+    ]
+  },
+  GA: {
+    name: "Georgia",
+    deadline: "Commonly cited deadline: 30 days after move-out. This tool has not independently verified this figure against the state's statute text.",
+    caution: "This state's entry is sourced from a secondary legal-info aggregator, not verified line-by-line against the statute by this tool. Confirm with your state's official tenant-rights resources or a local tenant organization before relying on it. This tool does not provide legal advice.",
+    sources: [
+      { label: "ipropertymanagement.com \u2014 Security Deposit Return Laws (50-state summary)", url: "https://ipropertymanagement.com/laws/security-deposit-return" },
+    ]
+  },
+  HI: {
+    name: "Hawaii",
+    deadline: "Commonly cited deadline: 14 days after move-out. This tool has not independently verified this figure against the state's statute text.",
+    caution: "This state's entry is sourced from a secondary legal-info aggregator, not verified line-by-line against the statute by this tool. Confirm with your state's official tenant-rights resources or a local tenant organization before relying on it. This tool does not provide legal advice.",
+    sources: [
+      { label: "ipropertymanagement.com \u2014 Security Deposit Return Laws (50-state summary)", url: "https://ipropertymanagement.com/laws/security-deposit-return" },
+    ]
+  },
+  ID: {
+    name: "Idaho",
+    deadline: "Commonly cited deadline: 21 days after move-out (up to 30 if the lease says so). This tool has not independently verified this figure against the state's statute text.",
+    caution: "This state's entry is sourced from a secondary legal-info aggregator, not verified line-by-line against the statute by this tool. Confirm with your state's official tenant-rights resources or a local tenant organization before relying on it. This tool does not provide legal advice.",
+    sources: [
+      { label: "ipropertymanagement.com \u2014 Security Deposit Return Laws (50-state summary)", url: "https://ipropertymanagement.com/laws/security-deposit-return" },
+    ]
+  },
+  IL: {
+    name: "Illinois",
+    deadline: "Commonly cited deadline: 7 days after move-out if no deductions are claimed; 30 days to itemize deductions plus 15 more days to pay the balance if there are deductions (30+ unit buildings; smaller buildings are not covered by the state itemization statute). This tool has not independently verified this figure against the state's statute text.",
+    caution: "This state's entry is sourced from a secondary legal-info aggregator, not verified line-by-line against the statute by this tool. Confirm with your state's official tenant-rights resources or a local tenant organization before relying on it. This tool does not provide legal advice.",
+    sources: [
+      { label: "ipropertymanagement.com \u2014 Security Deposit Return Laws (50-state summary)", url: "https://ipropertymanagement.com/laws/security-deposit-return" },
+    ]
+  },
+  IN: {
+    name: "Indiana",
+    deadline: "Commonly cited deadline: 45 days after move-out. This tool has not independently verified this figure against the state's statute text.",
+    caution: "This state's entry is sourced from a secondary legal-info aggregator, not verified line-by-line against the statute by this tool. Confirm with your state's official tenant-rights resources or a local tenant organization before relying on it. This tool does not provide legal advice.",
+    sources: [
+      { label: "ipropertymanagement.com \u2014 Security Deposit Return Laws (50-state summary)", url: "https://ipropertymanagement.com/laws/security-deposit-return" },
+    ]
+  },
+  IA: {
+    name: "Iowa",
+    deadline: "Commonly cited deadline: 30 days after move-out. This tool has not independently verified this figure against the state's statute text.",
+    caution: "This state's entry is sourced from a secondary legal-info aggregator, not verified line-by-line against the statute by this tool. Confirm with your state's official tenant-rights resources or a local tenant organization before relying on it. This tool does not provide legal advice.",
+    sources: [
+      { label: "ipropertymanagement.com \u2014 Security Deposit Return Laws (50-state summary)", url: "https://ipropertymanagement.com/laws/security-deposit-return" },
+    ]
+  },
+  KS: {
+    name: "Kansas",
+    deadline: "Commonly cited deadline: 30 days after move-out. This tool has not independently verified this figure against the state's statute text.",
+    caution: "This state's entry is sourced from a secondary legal-info aggregator, not verified line-by-line against the statute by this tool. Confirm with your state's official tenant-rights resources or a local tenant organization before relying on it. This tool does not provide legal advice.",
+    sources: [
+      { label: "ipropertymanagement.com \u2014 Security Deposit Return Laws (50-state summary)", url: "https://ipropertymanagement.com/laws/security-deposit-return" },
+    ]
+  },
+  KY: {
+    name: "Kentucky",
+    deadline: "Commonly cited deadline: 30 to 60 days after move-out depending on locality. This tool has not independently verified this figure against the state's statute text.",
+    caution: "This state's entry is sourced from a secondary legal-info aggregator, not verified line-by-line against the statute by this tool. Confirm with your state's official tenant-rights resources or a local tenant organization before relying on it. This tool does not provide legal advice.",
+    sources: [
+      { label: "ipropertymanagement.com \u2014 Security Deposit Return Laws (50-state summary)", url: "https://ipropertymanagement.com/laws/security-deposit-return" },
+    ]
+  },
+  LA: {
+    name: "Louisiana",
+    deadline: "Commonly cited deadline: 1 month after move-out. This tool has not independently verified this figure against the state's statute text.",
+    caution: "This state's entry is sourced from a secondary legal-info aggregator, not verified line-by-line against the statute by this tool. Confirm with your state's official tenant-rights resources or a local tenant organization before relying on it. This tool does not provide legal advice.",
+    sources: [
+      { label: "ipropertymanagement.com \u2014 Security Deposit Return Laws (50-state summary)", url: "https://ipropertymanagement.com/laws/security-deposit-return" },
+    ]
+  },
+  ME: {
+    name: "Maine",
+    deadline: "Commonly cited deadline: 21 days after move-out (30 days if there was no written lease). This tool has not independently verified this figure against the state's statute text.",
+    caution: "This state's entry is sourced from a secondary legal-info aggregator, not verified line-by-line against the statute by this tool. Confirm with your state's official tenant-rights resources or a local tenant organization before relying on it. This tool does not provide legal advice.",
+    sources: [
+      { label: "ipropertymanagement.com \u2014 Security Deposit Return Laws (50-state summary)", url: "https://ipropertymanagement.com/laws/security-deposit-return" },
+    ]
+  },
+  MD: {
+    name: "Maryland",
+    deadline: "Commonly cited deadline: 45 days after move-out. This tool has not independently verified this figure against the state's statute text.",
+    caution: "This state's entry is sourced from a secondary legal-info aggregator, not verified line-by-line against the statute by this tool. Confirm with your state's official tenant-rights resources or a local tenant organization before relying on it. This tool does not provide legal advice.",
+    sources: [
+      { label: "ipropertymanagement.com \u2014 Security Deposit Return Laws (50-state summary)", url: "https://ipropertymanagement.com/laws/security-deposit-return" },
+    ]
+  },
+  MI: {
+    name: "Michigan",
+    deadline: "Commonly cited deadline: 30 days after move-out. This tool has not independently verified this figure against the state's statute text.",
+    caution: "This state's entry is sourced from a secondary legal-info aggregator, not verified line-by-line against the statute by this tool. Confirm with your state's official tenant-rights resources or a local tenant organization before relying on it. This tool does not provide legal advice.",
+    sources: [
+      { label: "ipropertymanagement.com \u2014 Security Deposit Return Laws (50-state summary)", url: "https://ipropertymanagement.com/laws/security-deposit-return" },
+    ]
+  },
+  MN: {
+    name: "Minnesota",
+    deadline: "Commonly cited deadline: 21 days after move-out. This tool has not independently verified this figure against the state's statute text.",
+    caution: "This state's entry is sourced from a secondary legal-info aggregator, not verified line-by-line against the statute by this tool. Confirm with your state's official tenant-rights resources or a local tenant organization before relying on it. This tool does not provide legal advice.",
+    sources: [
+      { label: "ipropertymanagement.com \u2014 Security Deposit Return Laws (50-state summary)", url: "https://ipropertymanagement.com/laws/security-deposit-return" },
+    ]
+  },
+  MS: {
+    name: "Mississippi",
+    deadline: "Commonly cited deadline: 45 days after move-out. This tool has not independently verified this figure against the state's statute text.",
+    caution: "This state's entry is sourced from a secondary legal-info aggregator, not verified line-by-line against the statute by this tool. Confirm with your state's official tenant-rights resources or a local tenant organization before relying on it. This tool does not provide legal advice.",
+    sources: [
+      { label: "ipropertymanagement.com \u2014 Security Deposit Return Laws (50-state summary)", url: "https://ipropertymanagement.com/laws/security-deposit-return" },
+    ]
+  },
+  MO: {
+    name: "Missouri",
+    deadline: "Commonly cited deadline: 30 days after move-out. This tool has not independently verified this figure against the state's statute text.",
+    caution: "This state's entry is sourced from a secondary legal-info aggregator, not verified line-by-line against the statute by this tool. Confirm with your state's official tenant-rights resources or a local tenant organization before relying on it. This tool does not provide legal advice.",
+    sources: [
+      { label: "ipropertymanagement.com \u2014 Security Deposit Return Laws (50-state summary)", url: "https://ipropertymanagement.com/laws/security-deposit-return" },
+    ]
+  },
+  MT: {
+    name: "Montana",
+    deadline: "Commonly cited deadline: 10 days after move-out if no deductions, up to 30 days if there are deductions. This tool has not independently verified this figure against the state's statute text.",
+    caution: "This state's entry is sourced from a secondary legal-info aggregator, not verified line-by-line against the statute by this tool. Confirm with your state's official tenant-rights resources or a local tenant organization before relying on it. This tool does not provide legal advice.",
+    sources: [
+      { label: "ipropertymanagement.com \u2014 Security Deposit Return Laws (50-state summary)", url: "https://ipropertymanagement.com/laws/security-deposit-return" },
+      { label: "Mont. Code Ann. \u00a770-25-202", url: "https://leg.mt.gov/bills/mca/title_0700/chapter_0250/part_0020/section_0020/0700-0250-0020-0020.html" },
+    ]
+  },
+  NE: {
+    name: "Nebraska",
+    deadline: "Commonly cited deadline: 14 days after move-out. This tool has not independently verified this figure against the state's statute text.",
+    caution: "This state's entry is sourced from a secondary legal-info aggregator, not verified line-by-line against the statute by this tool. Confirm with your state's official tenant-rights resources or a local tenant organization before relying on it. This tool does not provide legal advice.",
+    sources: [
+      { label: "ipropertymanagement.com \u2014 Security Deposit Return Laws (50-state summary)", url: "https://ipropertymanagement.com/laws/security-deposit-return" },
+    ]
+  },
+  NV: {
+    name: "Nevada",
+    deadline: "Commonly cited deadline: 30 days after move-out. This tool has not independently verified this figure against the state's statute text.",
+    caution: "This state's entry is sourced from a secondary legal-info aggregator, not verified line-by-line against the statute by this tool. Confirm with your state's official tenant-rights resources or a local tenant organization before relying on it. This tool does not provide legal advice.",
+    sources: [
+      { label: "ipropertymanagement.com \u2014 Security Deposit Return Laws (50-state summary)", url: "https://ipropertymanagement.com/laws/security-deposit-return" },
+    ]
+  },
+  NH: {
+    name: "New Hampshire",
+    deadline: "Commonly cited deadline: 30 days after move-out. This tool has not independently verified this figure against the state's statute text.",
+    caution: "This state's entry is sourced from a secondary legal-info aggregator, not verified line-by-line against the statute by this tool. Confirm with your state's official tenant-rights resources or a local tenant organization before relying on it. This tool does not provide legal advice.",
+    sources: [
+      { label: "ipropertymanagement.com \u2014 Security Deposit Return Laws (50-state summary)", url: "https://ipropertymanagement.com/laws/security-deposit-return" },
+    ]
+  },
+  NJ: {
+    name: "New Jersey",
+    deadline: "Commonly cited deadline: 30 days after move-out. This tool has not independently verified this figure against the state's statute text.",
+    caution: "This state's entry is sourced from a secondary legal-info aggregator, not verified line-by-line against the statute by this tool. Confirm with your state's official tenant-rights resources or a local tenant organization before relying on it. This tool does not provide legal advice.",
+    sources: [
+      { label: "ipropertymanagement.com \u2014 Security Deposit Return Laws (50-state summary)", url: "https://ipropertymanagement.com/laws/security-deposit-return" },
+    ]
+  },
+  NM: {
+    name: "New Mexico",
+    deadline: "Commonly cited deadline: 30 days after move-out. This tool has not independently verified this figure against the state's statute text.",
+    caution: "This state's entry is sourced from a secondary legal-info aggregator, not verified line-by-line against the statute by this tool. Confirm with your state's official tenant-rights resources or a local tenant organization before relying on it. This tool does not provide legal advice.",
+    sources: [
+      { label: "ipropertymanagement.com \u2014 Security Deposit Return Laws (50-state summary)", url: "https://ipropertymanagement.com/laws/security-deposit-return" },
+    ]
+  },
+  NC: {
+    name: "North Carolina",
+    deadline: "Commonly cited deadline: 30 days after move-out (up to 60 days if the exact damage amount is not yet known). This tool has not independently verified this figure against the state's statute text.",
+    caution: "This state's entry is sourced from a secondary legal-info aggregator, not verified line-by-line against the statute by this tool. Confirm with your state's official tenant-rights resources or a local tenant organization before relying on it. This tool does not provide legal advice.",
+    sources: [
+      { label: "ipropertymanagement.com \u2014 Security Deposit Return Laws (50-state summary)", url: "https://ipropertymanagement.com/laws/security-deposit-return" },
+    ]
+  },
+  ND: {
+    name: "North Dakota",
+    deadline: "Commonly cited deadline: 30 days after move-out. This tool has not independently verified this figure against the state's statute text.",
+    caution: "This state's entry is sourced from a secondary legal-info aggregator, not verified line-by-line against the statute by this tool. Confirm with your state's official tenant-rights resources or a local tenant organization before relying on it. This tool does not provide legal advice.",
+    sources: [
+      { label: "ipropertymanagement.com \u2014 Security Deposit Return Laws (50-state summary)", url: "https://ipropertymanagement.com/laws/security-deposit-return" },
+    ]
+  },
+  OH: {
+    name: "Ohio",
+    deadline: "Commonly cited deadline: 30 days after move-out. This tool has not independently verified this figure against the state's statute text.",
+    caution: "This state's entry is sourced from a secondary legal-info aggregator, not verified line-by-line against the statute by this tool. Confirm with your state's official tenant-rights resources or a local tenant organization before relying on it. This tool does not provide legal advice.",
+    sources: [
+      { label: "ipropertymanagement.com \u2014 Security Deposit Return Laws (50-state summary)", url: "https://ipropertymanagement.com/laws/security-deposit-return" },
+    ]
+  },
+  OK: {
+    name: "Oklahoma",
+    deadline: "Commonly cited deadline: 45 days after move-out. This tool has not independently verified this figure against the state's statute text.",
+    caution: "This state's entry is sourced from a secondary legal-info aggregator, not verified line-by-line against the statute by this tool. Confirm with your state's official tenant-rights resources or a local tenant organization before relying on it. This tool does not provide legal advice.",
+    sources: [
+      { label: "ipropertymanagement.com \u2014 Security Deposit Return Laws (50-state summary)", url: "https://ipropertymanagement.com/laws/security-deposit-return" },
+    ]
+  },
+  OR: {
+    name: "Oregon",
+    deadline: "Commonly cited deadline: 31 days after move-out. This tool has not independently verified this figure against the state's statute text.",
+    caution: "This state's entry is sourced from a secondary legal-info aggregator, not verified line-by-line against the statute by this tool. Confirm with your state's official tenant-rights resources or a local tenant organization before relying on it. This tool does not provide legal advice.",
+    sources: [
+      { label: "ipropertymanagement.com \u2014 Security Deposit Return Laws (50-state summary)", url: "https://ipropertymanagement.com/laws/security-deposit-return" },
+    ]
+  },
+  PA: {
+    name: "Pennsylvania",
+    deadline: "Commonly cited deadline: 30 days after move-out. This tool has not independently verified this figure against the state's statute text.",
+    caution: "This state's entry is sourced from a secondary legal-info aggregator, not verified line-by-line against the statute by this tool. Confirm with your state's official tenant-rights resources or a local tenant organization before relying on it. This tool does not provide legal advice.",
+    sources: [
+      { label: "ipropertymanagement.com \u2014 Security Deposit Return Laws (50-state summary)", url: "https://ipropertymanagement.com/laws/security-deposit-return" },
+    ]
+  },
+  RI: {
+    name: "Rhode Island",
+    deadline: "Commonly cited deadline: 20 days after move-out. This tool has not independently verified this figure against the state's statute text.",
+    caution: "This state's entry is sourced from a secondary legal-info aggregator, not verified line-by-line against the statute by this tool. Confirm with your state's official tenant-rights resources or a local tenant organization before relying on it. This tool does not provide legal advice.",
+    sources: [
+      { label: "ipropertymanagement.com \u2014 Security Deposit Return Laws (50-state summary)", url: "https://ipropertymanagement.com/laws/security-deposit-return" },
+    ]
+  },
+  SC: {
+    name: "South Carolina",
+    deadline: "Commonly cited deadline: 30 days after move-out. This tool has not independently verified this figure against the state's statute text.",
+    caution: "This state's entry is sourced from a secondary legal-info aggregator, not verified line-by-line against the statute by this tool. Confirm with your state's official tenant-rights resources or a local tenant organization before relying on it. This tool does not provide legal advice.",
+    sources: [
+      { label: "ipropertymanagement.com \u2014 Security Deposit Return Laws (50-state summary)", url: "https://ipropertymanagement.com/laws/security-deposit-return" },
+    ]
+  },
+  SD: {
+    name: "South Dakota",
+    deadline: "Commonly cited deadline: 14 days after move-out, up to 45 days if you request an itemized accounting. This tool has not independently verified this figure against the state's statute text.",
+    caution: "This state's entry is sourced from a secondary legal-info aggregator, not verified line-by-line against the statute by this tool. Confirm with your state's official tenant-rights resources or a local tenant organization before relying on it. This tool does not provide legal advice.",
+    sources: [
+      { label: "ipropertymanagement.com \u2014 Security Deposit Return Laws (50-state summary)", url: "https://ipropertymanagement.com/laws/security-deposit-return" },
+    ]
+  },
+  TN: {
+    name: "Tennessee",
+    deadline: "Commonly cited deadline: No fixed statewide deadline in statute; deposits are held in a separate account and returned within a reasonable time \u2014 document condition carefully since state-level recourse is limited. This tool has not independently verified this figure against the state's statute text.",
+    caution: "This state's entry is sourced from a secondary legal-info aggregator, not verified line-by-line against the statute by this tool. Confirm with your state's official tenant-rights resources or a local tenant organization before relying on it. This tool does not provide legal advice.",
+    sources: [
+      { label: "ipropertymanagement.com \u2014 Security Deposit Return Laws (50-state summary)", url: "https://ipropertymanagement.com/laws/security-deposit-return" },
+    ]
+  },
+  UT: {
+    name: "Utah",
+    deadline: "Commonly cited deadline: 30 days after move-out. This tool has not independently verified this figure against the state's statute text.",
+    caution: "This state's entry is sourced from a secondary legal-info aggregator, not verified line-by-line against the statute by this tool. Confirm with your state's official tenant-rights resources or a local tenant organization before relying on it. This tool does not provide legal advice.",
+    sources: [
+      { label: "ipropertymanagement.com \u2014 Security Deposit Return Laws (50-state summary)", url: "https://ipropertymanagement.com/laws/security-deposit-return" },
+    ]
+  },
+  VT: {
+    name: "Vermont",
+    deadline: "Commonly cited deadline: 14 days after move-out. This tool has not independently verified this figure against the state's statute text.",
+    caution: "This state's entry is sourced from a secondary legal-info aggregator, not verified line-by-line against the statute by this tool. Confirm with your state's official tenant-rights resources or a local tenant organization before relying on it. This tool does not provide legal advice.",
+    sources: [
+      { label: "ipropertymanagement.com \u2014 Security Deposit Return Laws (50-state summary)", url: "https://ipropertymanagement.com/laws/security-deposit-return" },
+    ]
+  },
+  VA: {
+    name: "Virginia",
+    deadline: "Commonly cited deadline: 45 days after move-out. This tool has not independently verified this figure against the state's statute text.",
+    caution: "This state's entry is sourced from a secondary legal-info aggregator, not verified line-by-line against the statute by this tool. Confirm with your state's official tenant-rights resources or a local tenant organization before relying on it. This tool does not provide legal advice.",
+    sources: [
+      { label: "ipropertymanagement.com \u2014 Security Deposit Return Laws (50-state summary)", url: "https://ipropertymanagement.com/laws/security-deposit-return" },
+    ]
+  },
+  WV: {
+    name: "West Virginia",
+    deadline: "Commonly cited deadline: 45 or 60 days after move-out depending on whether deductions are claimed. This tool has not independently verified this figure against the state's statute text.",
+    caution: "This state's entry is sourced from a secondary legal-info aggregator, not verified line-by-line against the statute by this tool. Confirm with your state's official tenant-rights resources or a local tenant organization before relying on it. This tool does not provide legal advice.",
+    sources: [
+      { label: "ipropertymanagement.com \u2014 Security Deposit Return Laws (50-state summary)", url: "https://ipropertymanagement.com/laws/security-deposit-return" },
+    ]
+  },
+  WI: {
+    name: "Wisconsin",
+    deadline: "Commonly cited deadline: 21 days after move-out. This tool has not independently verified this figure against the state's statute text.",
+    caution: "This state's entry is sourced from a secondary legal-info aggregator, not verified line-by-line against the statute by this tool. Confirm with your state's official tenant-rights resources or a local tenant organization before relying on it. This tool does not provide legal advice.",
+    sources: [
+      { label: "ipropertymanagement.com \u2014 Security Deposit Return Laws (50-state summary)", url: "https://ipropertymanagement.com/laws/security-deposit-return" },
+    ]
+  },
+  WY: {
+    name: "Wyoming",
+    deadline: "Commonly cited deadline: 30 days after move-out, up to 60 days if damage deductions are itemized. This tool has not independently verified this figure against the state's statute text.",
+    caution: "This state's entry is sourced from a secondary legal-info aggregator, not verified line-by-line against the statute by this tool. Confirm with your state's official tenant-rights resources or a local tenant organization before relying on it. This tool does not provide legal advice.",
+    sources: [
+      { label: "ipropertymanagement.com \u2014 Security Deposit Return Laws (50-state summary)", url: "https://ipropertymanagement.com/laws/security-deposit-return" },
+    ]
+  },
   _default: {
     name: null,
     deadline: null,
